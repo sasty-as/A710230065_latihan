@@ -1,0 +1,9 @@
+print('Hello')
+
+#input, output dan variabel
+nama = input('Siapa nama kamu : ')
+print ('hallo ', nama)
+
+nama_depan = "Sasty"
+nama_belakang = "Azizah Souva"
+print(nama_depan, nama_belakang)
