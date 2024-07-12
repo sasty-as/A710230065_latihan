@@ -4,7 +4,7 @@ nama_belakang = input("Masukkan nama belakang Anda: ")
 
 # Output nama lengkap
 nama_lengkap = nama_depan + " " + nama_belakang
-print("Nama lengkap Anda adalah:", nama_lengkap)
+print("Nama lengkap Anda adalah :", nama_lengkap)
 
 # Operasi pada string
 nama_lengkap_upper = nama_lengkap.upper()
